@@ -32,7 +32,7 @@ Este es un documento de prueba que muestra cómo utilizar los elementos básicos
 
 [Ir a GitHub](https://github.com)
 
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo de GitHub-ejemplo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ---
 
