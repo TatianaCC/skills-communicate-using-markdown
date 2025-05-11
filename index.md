@@ -52,3 +52,11 @@ Usa la instrucción `git status` para ver los cambios.
 ```python
 def saludar(nombre):
     return f"Hola, {nombre}!"
+```
+---
+
+## Lista de tareas
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
