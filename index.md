@@ -47,7 +47,7 @@ Este es un documento de prueba que muestra cómo utilizar los elementos básicos
 ### Código en línea
 Usa la instrucción `git status` para ver los cambios.
 
-### Bloque de código
+### Bloque de código-ejemplo
 
 ```python
 def saludar(nombre):
